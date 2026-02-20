@@ -3,12 +3,10 @@
   "WorkspaceRootPath": "D:\\pongsarit-1350702143\\bu-2025-sem2-gi244-week06-1650702143\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{935B2354-04FB-D4D4-86A2-FF2C2F9DCEA0}|Assembly-CSharp.csproj|D:\\pongsarit-1350702143\\bu-2025-sem2-gi244-week06-1650702143\\assets\\scripts\\exam\\wavespawnmanagerexam04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{935B2354-04FB-D4D4-86A2-FF2C2F9DCEA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\wavespawnmanagerexam04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{935B2354-04FB-D4D4-86A2-FF2C2F9DCEA0}|Assembly-CSharp.csproj|d:\\pongsarit-1350702143\\as\\wavespawnmanagerexam04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{935B2354-04FB-D4D4-86A2-FF2C2F9DCEA0}|Assembly-CSharp.csproj|d:\\pongsarit-1350702143\\bu-2025-sem2-gi244-week06-1650702143\\assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{935B2354-04FB-D4D4-86A2-FF2C2F9DCEA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{935B2354-04FB-D4D4-86A2-FF2C2F9DCEA0}|Assembly-CSharp.csproj|d:\\pongsarit-1350702143\\as\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{935B2354-04FB-D4D4-86A2-FF2C2F9DCEA0}|Assembly-CSharp.csproj|D:\\pongsarit-1350702143\\bu-2025-sem2-gi244-week06-1650702143\\assets\\scripts\\exam\\playercontrollerexam05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,11 +30,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PlayerControllerExam03.cs",
-              "DocumentMoniker": "D:\\pongsarit-1350702143\\bu-2025-sem2-gi244-week06-1650702143\\Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
-              "ToolTip": "D:\\pongsarit-1350702143\\bu-2025-sem2-gi244-week06-1650702143\\Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwDIAAAA8AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\pongsarit-1350702143\\As\\PlayerControllerExam03.cs",
+              "RelativeDocumentMoniker": "..\\As\\PlayerControllerExam03.cs",
+              "ToolTip": "D:\\pongsarit-1350702143\\As\\PlayerControllerExam03.cs",
+              "RelativeToolTip": "..\\As\\PlayerControllerExam03.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T09:24:04.059Z",
               "EditorCaption": ""
@@ -57,11 +55,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WaveSpawnManagerExam04.cs",
-              "DocumentMoniker": "D:\\pongsarit-1350702143\\bu-2025-sem2-gi244-week06-1650702143\\Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
-              "ToolTip": "D:\\pongsarit-1350702143\\bu-2025-sem2-gi244-week06-1650702143\\Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwDwAAAAUAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\pongsarit-1350702143\\As\\WaveSpawnManagerExam04.cs",
+              "RelativeDocumentMoniker": "..\\As\\WaveSpawnManagerExam04.cs",
+              "ToolTip": "D:\\pongsarit-1350702143\\As\\WaveSpawnManagerExam04.cs",
+              "RelativeToolTip": "..\\As\\WaveSpawnManagerExam04.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwDwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T08:42:50.826Z",
               "EditorCaption": ""
