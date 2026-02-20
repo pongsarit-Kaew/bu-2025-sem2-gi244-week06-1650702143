@@ -13,6 +13,7 @@ public class PlayerControllerExam03 : MonoBehaviour
     private float horizontalInput;
     private InputAction moveAction;
     private InputAction shootAction;
+    private float nextFireTime = 0f;
 
     private void Awake()
     {
@@ -36,6 +37,21 @@ public class PlayerControllerExam03 : MonoBehaviour
         }
 
         if (shootAction.triggered)
+        {
+            Instantiate(projectilePrefab, transform.position, transform.rotation);
+        }
+
+        if (enableAutoFireMode)
+        {
+            
+            if (Time.time >= nextFireTime)
+            {
+                Instantiate(projectilePrefab, transform.position, transform.rotation);
+                
+                nextFireTime = Time.time + autoFireInterval;
+            }
+        }
+        else if (shootAction.triggered) 
         {
             Instantiate(projectilePrefab, transform.position, transform.rotation);
         }
